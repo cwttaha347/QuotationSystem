@@ -19,10 +19,12 @@ Deployed Instances
 This system has been deployed for the following companies:
 
 Smart Solutions
+Link: https://smartsolutionksa.com/quotation/
 A leading provider of innovative business solutions.
 Logo: ![Smart Solutions Logo](https://smartsolutionksa.com/quotation/assets/img/smartsolution-logo.png)
 
 Proficient Intelligence Investment
+Link: https://proficientintelinvest.com/quotation/
 A trusted name in investment and financial services.
 Logo:![Proficient Intelligence Investment Logo](https://proficientintelinvest.com/quotation/assets/img/pii-logo.jpg)
 
